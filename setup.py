@@ -24,10 +24,8 @@ setup(
         [console_scripts]
         kiota=template:main
     ''',
-    # project_urls={  
-    #     'Bug Reports': 'https://github.com/pypa/sampleproject/issues',
-    #     'Funding': 'https://donate.pypi.org',
-    #     'Say Thanks!': 'http://saythanks.io/to/example',
-    #     'Source': 'https://github.com/pypa/sampleproject/',
-    # },
+    project_urls={  
+        'Bug Reports': 'https://github.com/pangoio/kiota/issues',
+        'Source': 'https://github.com/pangoio/kiota/',
+    },
 )
