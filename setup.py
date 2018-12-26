@@ -15,7 +15,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    version='0.2dev',
+    version='0.3dev',
     py_modules=['template'],
     install_requires=[
         'Click',

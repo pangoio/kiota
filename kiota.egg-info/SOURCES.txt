@@ -1,0 +1,7 @@
+template.py
+kiota.egg-info/PKG-INFO
+kiota.egg-info/SOURCES.txt
+kiota.egg-info/dependency_links.txt
+kiota.egg-info/entry_points.txt
+kiota.egg-info/requires.txt
+kiota.egg-info/top_level.txt

@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: kiota
+Version: 0.3.dev0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Pango.io Ltd
+Author-email: info@pango.io
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/pangoio/kiota/issues
+Project-URL: Source, https://github.com/pangoio/kiota/
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
